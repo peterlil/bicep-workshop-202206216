@@ -1,2 +1,0 @@
-@secure()
-param apiKey string

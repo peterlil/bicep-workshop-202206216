@@ -4,7 +4,7 @@ In this exercise you should create the following Azure resources using bicep:
 
 * A resource group (hint - use deployment on subscription scope)
 * A Key Vault
-* A Storage Sccount
+* A Storage Account
 
 When the Storage Account is created, you should store one of the access keys as a secret in the Key Vault you just created, all using Bicep.
 

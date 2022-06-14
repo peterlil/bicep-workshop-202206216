@@ -16,6 +16,7 @@ Links to labs:
 - [Exercise - Add a parameter file and secure parameters](https://docs.microsoft.com/en-us/learn/modules/build-reusable-bicep-templates-parameters/6-exercise-create-use-parameter-files?pivots=cli)
 - [Exercise - Deploy resources conditionally](https://docs.microsoft.com/en-us/learn/modules/build-flexible-bicep-templates-conditions-loops/3-exercise-conditions?pivots=cli)
 - [Exercise - Deploy multiple resources by using loops](https://docs.microsoft.com/en-us/learn/modules/build-flexible-bicep-templates-conditions-loops/5-exercise-loops?pivots=cli)
+- [Custom Exercise - Create a storage account and store a key in Key Vault](https://github.com/peterlil/bicep-workshop-202206216/blob/main/create-storage-account-store-keys-in-key-vault.md)
 
 Links to Microsoft Learn Collections:
 
